@@ -15,6 +15,9 @@ Yeah dude.
 [GitHub](https://github.com)
 
 ``` javascript
-var myVar = "Hello, world!";
+var myVar = "Hello, everyone!";
 ```
 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
